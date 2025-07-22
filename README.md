@@ -1,36 +1,43 @@
-📊 A Data Warehouse and Analytics Project
-Welcome to the "A Data Warehouse and Analytics Project" repository.
+📊 Data Warehouse and Analytics Project
+Welcome to the Data Warehouse and Analytics Project repository! 
+This project, created by Data with Baraa, showcases a complete data warehousing and analytics solution. From building a modern data warehouse to generating actionable insights, this portfolio project follows industry best practices in both data engineering and data analytics.
 
-This project demonstrates a comprehensive data warehousing and analytics solution — from building a data warehouse to generating actionable insights. It is a training practice project directly adapted from Baraa Data Analysis Tutorial.
+🏗️ Project Requirements
 
-🏗️ Data Architecture
-The project follows the Medallion Architecture, consisting of three layers: Bronze, Silver, and Gold.
+🔹 Building the Data Warehouse (Data Engineering)
+**Objective**
+Gain hands-on experience in developing a modern data warehouse using SQL Server to consolidate sales data for analytical reporting and informed decision-making.
 
-Bronze Layer
-Raw data ingested as-is from source systems (e.g., CSV files) into a SQL Server database.
+**Specifications**
 
-Silver Layer
-Data is cleansed, standardized, and normalized to prepare it for analysis.
+Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
 
-Gold Layer
-Contains business-ready data, modeled in a star schema for reporting and analytics.
+Data Quality: Cleanse and resolve data quality issues before analysis.
 
-📖 Project Overview
-This project covers:
+Integration: Combine both data sources into a single, user-friendly data model optimized for analytical queries.
 
-Data Architecture
-Designing a modern data warehouse using the Medallion Architecture.
+Scope: Focus only on the latest dataset (no historization required).
 
-ETL Pipelines
-Extracting, transforming, and loading data from various sources into the warehouse.
+Documentation: Provide clear, accessible documentation of the data model for both business and technical audiences.
 
-Data Modeling
-Creating fact and dimension tables optimized for analytical queries.
+📈 BI: Analytics & Reporting (Data Analytics)
+Objective
+Develop SQL-based analytics to uncover valuable business insights related to:
 
-Analytics & Reporting
-Generating SQL-based reports and dashboards to provide actionable business insights.
+🧍 Customer Behavior
 
-🎯 Who Is This For?
-Students and building data portfolio projects
+📦 Product Performance
 
+💰 Sales Trends
+
+These insights will empower stakeholders with critical business metrics, supporting strategic decision-making.
+
+📄 License
+This project is licensed under the MIT License.
+Anyone can use, modify, and share this project with proper attribution.
+
+👩‍💻 About Me
+I'm Abebe Getu, who have a passion for learning data engineering and data analytics.
+
+I'm grateful to Data with Baraa for creating this hands-on project. It has given me the opportunity to learn, apply, and grow. I look forward to using these skills in my future career! 
 
