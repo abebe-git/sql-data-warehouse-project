@@ -27,17 +27,27 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 📖 Project Overview
 
 This project involves:
+
 1.	Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
-2.	ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
-3.	Data Modeling: Developing fact and dimension tables optimized for analytical queries.
-4.	Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+2.	
+3.	ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
+4.	
+5.	Data Modeling: Developing fact and dimension tables optimized for analytical queries.
+6.	
+7.	Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
    
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+
 •	SQL Development
+
 •	Data Architect
+
 •	Data Engineering
+
 •	ETL Pipeline Developer
+
 •	Data Modeling
+
 •	Data Analytics
 
 🚀 Project Requirements
@@ -51,16 +61,22 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 Specifications
 
 •	Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
+
 •	Data Quality: Cleanse and resolve data quality issues prior to analysis.
+
 •	Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
+
 •	Scope: Focus on the latest dataset only; historization of data is not required.
+
 •	Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 📄 License
+
 This project is licensed under the MIT License.
 Anyone can use, modify, and share this project with proper attribution.
 
 👩‍💻 About Me
+
 I'm Abebe Getu, who have a passion for learning data engineering and data analytics.
 
 I'm grateful to Data with Baraa for creating this hands-on project. It has given me the opportunity to learn, apply, and grow. I look forward to using these skills in my future career!
