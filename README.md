@@ -1,11 +1,11 @@
-📊 Data Warehouse and Analytics Project
+#📊 Data Warehouse and Analytics Project
 
    Welcome to the Data Warehouse and Analytics Project repository! 
 
    This project, created by Data with Baraa, showcases a complete data warehousing and analytics solution. From building a modern data warehouse to generating actionable insights, this portfolio project follows industry best practices in both data engineering and data analytics.
 
 
-🏗️ Data Architecture
+#🏗️ Data Architecture
 
    The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: 
  ![Data Architecture](https://github.com/user-attachments/assets/8c9a83ff-bb44-44e4-846e-96e58f27ca6c)
@@ -14,9 +14,9 @@
    2.	Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
    3.	Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
    
-📖 Project Overview
+#📖 Project Overview
 
-This project involves:
+##This project involves:
 
    1.	Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
    2.	
@@ -40,15 +40,15 @@ This project involves:
      
      •	Data Analytics
 
-🚀 Project Requirements
+#🚀 Project Requirements
 
 Building the Data Warehouse (Data Engineering)
 
-Objective
+##Objective
 
   Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-Specifications
+##Specifications
     
     •	Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
     
@@ -60,14 +60,14 @@ Specifications
     
     •	Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
-🏗️ Project Requirements
+#🏗️ Project Requirements
 
-🔹 Building the Data Warehouse (Data Engineering)
+##🔹 Building the Data Warehouse (Data Engineering)
 
-Objective
+##Objective
   Gain hands-on experience in developing a modern data warehouse using SQL Server to consolidate sales data for analytical reporting and informed decision-making.
 
-Specifications
+##Specifications
    o	Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
    o	Data Quality: Cleanse and resolve data quality issues before analysis.
    o	Integration: Combine both data sources into a single, user-friendly data model optimized for analytical queries.
@@ -79,7 +79,7 @@ Specifications
    This project is licensed under the MIT License.
    Anyone can use, modify, and share this project with proper attribution.
 
-👩‍💻 About Me
+#👩‍💻 About Me
 
    I'm Abebe Getu, who have a passion for learning data engineering and data analytics.
    
